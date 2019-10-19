@@ -1,0 +1,83 @@
+﻿  MyGeometries.cpp
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+GlGeomSphere.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewBufferData
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewBufferData
+GlGeomSphere.obj : error LNK2001: unresolved external symbol ___glewBufferData
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewBufferData
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewBufferSubData
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+GlGeomSphere.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewGetUniformLocation
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewGetUniformLocation
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewUniform1i
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewUniform1i
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+TextureProj.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewVertexAttrib1f
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewVertexAttrib3fv
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewBindBufferRange
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewGetActiveUniformBlockiv
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewGetActiveUniformsiv
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewGetUniformBlockIndex
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewGetUniformIndices
+EduPhong.obj : error LNK2001: unresolved external symbol ___glewUniformBlockBinding
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewMultiDrawElements
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+GlGeomSphere.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+GlGeomSphere.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewDrawElementsIndirect
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+GlGeomSphere.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+GlGeomCylinder.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+GlGeomSphere.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+GlGeomSphere.obj : error LNK2001: unresolved external symbol ___glewPrimitiveRestartIndex
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewActiveTexture
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+PhongData.obj : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+PhongData.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+TextureProj.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+MyGeometries.obj : error LNK2001: unresolved external symbol ___glewGenerateMipmap
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewAttachShader
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewCompileShader
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewCreateProgram
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewCreateShader
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewDeleteShader
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewGetProgramInfoLog
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewGetProgramiv
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewGetShaderInfoLog
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewGetShaderiv
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewIsProgram
+TextureProj.obj : error LNK2001: unresolved external symbol ___glewIsProgram
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewIsShader
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewLinkProgram
+ShaderBuild.obj : error LNK2001: unresolved external symbol ___glewShaderSource
+TextureProj.obj : error LNK2019: unresolved external symbol _glewInit@0 referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glewGetString@4 referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwSetErrorCallback referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPAUGLFWwindow@@HHHH@Z)
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function "void __cdecl setup_callbacks(struct GLFWwindow *)" (?setup_callbacks@@YAXPAUGLFWwindow@@@Z)
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwWaitEventsTimeout referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwSetKeyCallback referenced in function "void __cdecl setup_callbacks(struct GLFWwindow *)" (?setup_callbacks@@YAXPAUGLFWwindow@@@Z)
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+TextureProj.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+TextureProj.obj : error LNK2001: unresolved external symbol ___glewClearBufferfv
+glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+glew32s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+D:\VM2\ma155a\p6\TextureProj\Debug\TextureProj.exe : fatal error LNK1120: 53 unresolved externals
